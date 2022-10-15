@@ -23,7 +23,7 @@
 <br>
 
 ### 👻 __팀명: `3,마이웨이__
-<br>![image](https://user-images.githubusercontent.com/77184523/195971713-88667082-a50b-40ca-a2d4-872d44f9e7c6.png)
+
 
 
 ### 👾 __R&R__  (_Role and Responsibilities_)👾 
