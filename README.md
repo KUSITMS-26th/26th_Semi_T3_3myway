@@ -194,6 +194,6 @@
 
 
 ### 🔗 주요 기능 명세서
-[PRD_기능명세서.xlsx](https://github.com/KUSITMS-26th/26th_T3_3myway/files/9791289/PRD_.xlsx)
+![PRD_기능명세서](https://docs.google.com/spreadsheets/d/16EZJLIQY43vcqRYZW5J-1qgfp_1uvyey_cpAK4Q6KUw/edit?usp=sharing)
 
 
